@@ -1,0 +1,27 @@
+.body {
+  margin: 0;
+}
+
+.class {
+  background-color: rgb(100, 100, 100);
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  position: relative;
+  box-shadow: 200px 200px 100px rgba(50, 90, 180, 1);
+}
+
+.randomColor {
+  width: 1000px;
+  height: 1000px;
+  position: absolute;
+  border-radius: 1000px;
+
+  box-shadow: 1000px 1000px 500px rgba(50, 90, 180, 0.5);
+}
